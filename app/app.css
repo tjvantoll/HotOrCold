@@ -1,0 +1,13 @@
+﻿Button {
+    margin-top: 375;
+    margin-left: 10;
+    margin-right: 10;
+    font-size: 24;
+    border-width: 1;
+    padding: 5;
+}
+Label {
+    margin-top: 20;
+    horizontal-align: center;
+    font-size: 32;
+}
